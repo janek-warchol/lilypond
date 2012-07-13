@@ -107,3 +107,5 @@ LilyPond's source files.
 |-- elisp/               Emacs LilyPond mode and syntax coloring
 |-- vim/                 Vi(M) LilyPond mode and syntax coloring
 `-- po/                  Translations for binaries and end-user scripts
+
+bonk.
